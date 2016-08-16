@@ -1,6 +1,7 @@
 Description
 ===========
-
+The code in src folder contains exercises and their solutions. 
+Each exercise contains its own README
 
 
 Authors and Universities
