@@ -6,11 +6,15 @@ The teams are judged on their curriculums by a team of top engineers and executi
 
 The projects include the following teams:
 
-AndroidGo
-SecurityNinjas
-LearnHouse
-PixieGo
-CodeBig
+Team AndroidGo
+
+Team SecurityNinjas
+
+Team LearnHouse
+
+Team PixieGo
+
+Team CodeBig
 
 Judges:
 
