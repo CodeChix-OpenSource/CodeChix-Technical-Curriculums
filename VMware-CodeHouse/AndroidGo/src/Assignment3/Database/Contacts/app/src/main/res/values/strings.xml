@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="contact_name_edit_text">Name</string>
+    <string name="contact_number_edit_text">Phone Number</string>
+    <string name="add_contact_button">Add Contact</string>
+</resources>
