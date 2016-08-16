@@ -1,0 +1,13 @@
+Using cryptography to encrypt/decrypt doesn't make your code/project all secure!
+This excercise demonstrates the importance of secure coding while using cryptographic libraries.
+
+The code snippet in crypt_1.py tries to encrypt and decrypt a given message and tests if its successful at that.
+Try running crypt_1.py - python crypt_1.py
+
+Now identify the error and rectify it.
+crypt_1.py uses the same IV for any encrypt/decrypt instance which isn't secure.
+Try python crypt_2.py
+
+Shocked? The crypt_2.py doesn't work at all! It does the solve the problem encountered in crypt_1.py by using crypto library's Random function.
+
+But why isn't it working? Brainstorm a little and you can look into th solution.

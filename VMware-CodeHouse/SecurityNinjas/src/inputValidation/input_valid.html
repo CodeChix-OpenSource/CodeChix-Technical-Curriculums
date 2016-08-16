@@ -1,0 +1,22 @@
+<html>
+   <head>
+     <script type="text/javascript">
+        function validate() {
+            var uname = document.forms["logincheck"]["user"].value;
+            alert("Welcome "+ uname);
+            
+        }
+     </script>
+   </head>
+   <body>
+     <form name="logincheck">
+    <label>User Name</label>
+    <input type="text" name="user" placeholder="username"> 
+    <br> </br>
+    <label>Password</label>
+    <input type="password" name="password" placeholder="password">
+    <br> </br>
+    <input type="submit" value="Login" onclick="validate();" />
+</form>
+   </body>
+</html>

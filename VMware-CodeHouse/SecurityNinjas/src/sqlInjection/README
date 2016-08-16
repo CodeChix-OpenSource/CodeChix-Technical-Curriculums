@@ -1,0 +1,11 @@
+1. Install sqlite
+	on linux
+	sudo apt-get update
+	sudo apt-get install sqlite3 libsqlite3-dev
+
+2. Tell students about SQL schema of users and balance table (refer to create_table.py)
+
+3. Ask students to retrieve balances of all usersvia sql injection
+
+4. Ask students to fix the script and check solution file in secure_sql.py in solution folder.
+

@@ -1,0 +1,7 @@
+SOLUTION:
+
+
+In crypt_2.py, although the IV is generated randomly using secure crypto libraries, the IV is generated twice in encrypt and decrypt functions.
+But you need the same IV that has been used for the encryption to be used for decryption.
+
+Hence, the correct would be crypto_correct.py
