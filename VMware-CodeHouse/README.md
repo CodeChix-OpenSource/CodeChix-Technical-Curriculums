@@ -1,5 +1,7 @@
 
+============
 Description
+============
 
 This is the repository containing all the curriculums created by graduate students @ VMware CodeHouse over 1.5 days.
 The curriculums are developed under supervision and guidance pursuant to the CodeChix Technical Curriculums 
