@@ -1,7 +1,7 @@
 Description
 ===========
 
-
+CodeBig curriculum aims for introducing Spark and Big Data technology, with hands on labs for Spark SQL and Machine Learning library.
 
 Authors and Universities
 ========================
