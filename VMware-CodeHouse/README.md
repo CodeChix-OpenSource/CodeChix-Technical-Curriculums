@@ -102,10 +102,15 @@ Shubhi Rani (@shubhi2808)
 CodeChix Leads
 ===============
 
-Rupa Dachere - Founder & Exec. Director @ CodeChix ; Sr. Member of Technical Staff, VMware
+Rupa Dachere
+
+	Founder & Exec. Director @ CodeChix ; Sr. Member of Technical Staff, VMware
 
 	Creator and Designer of CodeChix Technical Curriculums
 
-Deepa Dhurka - CodeChix Technical Curriculums Lead
+Deepa Dhurka
+
+	CodeChix Technical Curriculums Lead
+
 
 
