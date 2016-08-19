@@ -18,15 +18,25 @@ The projects include the following teams:
 Teams
 =======
 
-Team AndroidGo
+- Team AndroidGo
 
-Team SecurityNinjas
+This curriculum is designed to introduce software developers to the world of mobile app development. The course follows a modular structure that introduces the audience to the various elements of Android development, reinforcing the concepts covered in each modules using simple mini-projects. The final module of the course combines all the mini-projects designed in the previous modules to develop your very own version of an SOS application.
 
-Team LearnHouse
+Modules: 1. Introduction to Android applications 2. Working with Android widgets for user interaction 3. Communication 4. Storing your data 5. Designing apps that run in the background, Services 6. "Save My Soul": Build your own SOS application
 
-Team PixieGo
+- Team SecurityNinjas
 
-Team CodeBig
+- Team LearnHouse
+
+This tutorial is a learning guide for a naive seeker to dive into Machine Learning. It explains the foundations of Machine Learning and its applications. The tutorial covers the basics of the most widely used Supervised Learning and Unsupervised Learning Algorithms. Starting from the naive Linear Regression it covers upto Random Forests and SVM. The tutorial is a stepwise guide to apply these algorithms to real life problems such as sentiment analysis, predictions and classifications. At the end of every teaching session, there are exercises to assess the understanding of the students. 
+
+- Team PixieGo
+
+This Curriculum will introduce you to a wide range of topics in computer graphics, and prepare you for continued studies in more specialized sub-fields. You will become familiar with the technical challenges faced in displaying, and generating computer generated images. The course will introduce important concepts such as Homogeneous Coordinates, Projection of objects from 2D to 3D, Transformation, materials. A final project will give students the opportunity to create imaginative, technically complex visuals inspired by solar system.
+
+- Team CodeBig
+
+CodeBig curriculum aims for introducing Spark and Big Data technology, with hands on labs for Spark SQL and Machine Learning library.
 
 ========
 Judges:
