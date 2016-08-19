@@ -8,7 +8,7 @@ The curriculums are developed under supervision and guidance pursuant to the Cod
 proprietary guidelines, design, format and processes.
 The teams are judged on their curriculums by a team of top engineers and executives from VMware.
 
-The curriculums are further reviewed by a select team of CodeChix senior women engineers from various
+The curriculums are further reviewed by a select team of CodeChix senior women and men engineers from various
 companies and feedback is collected and implemented.  Once the review and update process is complete,
 CodeChix will open source all curriculums under the CodeChix Technical Curriculums policies.
 
