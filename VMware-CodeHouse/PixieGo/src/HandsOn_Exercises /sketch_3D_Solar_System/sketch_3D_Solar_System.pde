@@ -1,4 +1,4 @@
-import processing.opengl.*;
+
 float time =1.0;
 void setup() {
   

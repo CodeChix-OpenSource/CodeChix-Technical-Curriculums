@@ -1,6 +1,5 @@
 
 
-import processing.opengl.*;
 
 float time = 0;  // keep track of passing of time
 
