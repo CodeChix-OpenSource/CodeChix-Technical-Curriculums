@@ -7,7 +7,7 @@ This Curriculum will introduce you to a wide range of topics in computer graphic
 Authors and Universities
 ========================
 
-Shuxin Yu - Georgia Institute of Technology
-Hima Bindhu Busireddy - Stony Brook University
-Shivani Singhal - Carnegie Mellon University
+Shuxin Yu - Georgia Institute of Technology <br />
+Hima Bindhu Busireddy - Stony Brook University <br />
+Shivani Singhal - Carnegie Mellon University <br />
 Deepthi Thotakura - Fresno State University
