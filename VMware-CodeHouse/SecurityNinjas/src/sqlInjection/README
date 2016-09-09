@@ -1,3 +1,8 @@
+The purpose of the exercise is to let students spot and fix a major SQL Injection vulnerability. 
+
+>>CreateTable.py creates 2 tables in sqlite. Students need to be informed about the schema, so that they can design the attack accordingly. 
+>>insecure_sql.py This scriptperforms a basic login. Prints a welcome message. Asks for the account type and prints the balance of the logged in user. The script is vulnerable to sql injection as inputs are not sanitized and queries are not parameterised. 
+
 1. Install sqlite
 	on linux
 	sudo apt-get update
