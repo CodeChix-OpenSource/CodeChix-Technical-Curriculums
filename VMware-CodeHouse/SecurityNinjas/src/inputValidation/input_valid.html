@@ -1,0 +1,27 @@
+<html>
+   <body>
+     <form name="logincheck">
+    <label>User Name</label>
+    <input type="text" name="user" placeholder="username"> 
+    <br> </br>
+    <label>Password</label>
+    <input type="password" name="password" placeholder="password">
+    <br> </br>
+    var uname = document.forms["logincheck"]["user"].value;
+    <input type="submit" value="Login" onclick="validate(uname);" />
+</form>
+   </body>
+</html>
+
+<?php
+
+   
+
+    
+function validate($input) {
+$config = HTMLPurifier_Config::createDefault();
+$purifier = new HTMLPurifier($config);
+$clean_html = $purifier->purify($input);
+return $clean_html;
+}
+?>

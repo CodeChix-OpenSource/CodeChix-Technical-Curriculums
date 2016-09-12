@@ -1,0 +1,11 @@
+This C program illustrates buffer overflow and integer overflow leading to buffer overflow.
+
+attack1() is a simple example of buffer overflow vulnerable code wherein if the user enters number of characters to
+
+overwrite return address, buffer overflow will occur.
+
+attack2() checks for the sum of lengths of strings to be concatenated but integer overflow causes the check to fail in cases 
+	for instance when one length is 0xfffffff9 and the other is 0x10f.
+
+Solution : Check bounds for input integers separately before arithmetic operations (adding or multiplying) to avoid integer overflow    
++and use secure functions like fgets and strncpy to avoid buffer overflow

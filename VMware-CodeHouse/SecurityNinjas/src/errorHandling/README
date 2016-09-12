@@ -1,0 +1,13 @@
+This directory contains 2 source files - file_handling_faulty.c , memory_handling.c
+
+memory_management.c allocates a heap buffer, uses it by filling integers and reading them but fails to free the memory in the end.
+We recommend you compile the code and use valgrind to analyze memory leaks
+valgrind --leak-check=full -v ./memory_handling
+
+file_handling_faulty.c shows the code where a file is generated and the quotient of 2 integers is wwritten to it
+cc file_handling_faulty.c -o file_handling_faulty
+./file_handling_faulty temp_file 4 0
+
+The above divide by zero throws an error and the system exits with <0 value without freeing the resources and cleaning the system.
+The code also doesn't follow error codes properly.
+

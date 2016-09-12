@@ -1,0 +1,32 @@
+<section class="Index Page">
+
+
+<script>
+	function setcookie(){
+	
+ 	var d = new Date();
+    d.setTime(d.getTime() + (24*60*60*1000));
+    var expires = "expires=" + d.toGMTString();
+    document.cookie = document.getElementById('form').name.value + "=" + document.getElementById('form').pwd.value +"; " + expires;
+    alert(document.cookie);
+}
+
+	function getcookie(){
+		var x = document.cookie;
+		alert(x);
+	}
+</script>
+<h1> Sessions </h1>
+
+<form name="login" action="index_submit" id = "form">
+  <ul>
+    <li><label for="usermail"> User ID </label>
+    <input id = "name" type="text" name="username" placeholder="User name" required></li>
+    <li><label for="password"> Password </label>
+    <input id = "pwd" type="password" name="password" placeholder="password" required></li>
+  </ul> 
+   <button type="button" name="Submit" onclick = "setcookie()" target = _self > Submit </button>
+   <button type="button" name = "Get Cookie" onclick="getcookie()" target = _self > Get Cookie </button>
+</form>
+
+</section>

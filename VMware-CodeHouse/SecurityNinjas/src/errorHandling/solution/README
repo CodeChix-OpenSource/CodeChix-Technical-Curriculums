@@ -1,0 +1,3 @@
+This source file shows how to release any resources allocated to a program before it goes down.
+It is important to delete any temporary files created by the program. It is always good to fall-back than to go into an inconsistent state.
+The program demonstrates the usual goto labels for exiting a program in different modes.
