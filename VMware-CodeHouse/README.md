@@ -61,6 +61,16 @@ Sumina Verma - Director of Engineering Operations, Cloud Platforms
 
 Shilpi Agarwal - Director of R&D Engineering, NSX
 
+===================
+CodeChix Reviewers:
+===================
+
+Madhuri Yechuri
+Anne Holler
+Faisal Akber
+Michelle Ho
+Surekha Gupta
+
 ===========
 Authors:
 ===========
