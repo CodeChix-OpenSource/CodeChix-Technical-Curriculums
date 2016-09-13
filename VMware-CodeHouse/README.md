@@ -12,7 +12,14 @@ The curriculums are further reviewed by a select team of CodeChix senior women a
 companies and feedback is collected and implemented.  Once the review and update process is complete,
 CodeChix will open source all curriculums under the CodeChix Technical Curriculums policies.
 
-The projects include the following teams:
+
+=======
+License
+=======
+
+All content available as a result of the VMware CodeHouse pertaining to CodeChix Technical Currciulums is open source and licensed under the following license.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 =======
 Teams
@@ -106,7 +113,7 @@ Rupa Dachere
 
 	Founder & Exec. Director @ CodeChix ; Sr. Member of Technical Staff, VMware
 
-	Creator and Designer of CodeChix Technical Curriculums
+	Creator, Designer and Executor of CodeChix Technical Curriculums
 
 Deepa Dhurka
 
